@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-alert</name>
+   <tag></tag>
+   <elementGuidId>4ada2180-e156-484b-9ef8-9ccde9beeb12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authportal-main-section']/div[2]/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-box.a-alert.a-alert-warning.a-spacing-base > div.a-box-inner.a-alert-container > i.a-icon.a-icon-alert</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fc592c4b-6c4e-4aa3-8f85-cfa600393ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-alert</value>
+      <webElementGuid>5e4fd4f7-c776-4d80-b6d2-96342f090a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;authportal-main-section&quot;)/div[@class=&quot;a-section auth-pagelet-container&quot;]/div[@class=&quot;a-section a-spacing-double-large&quot;]/div[@class=&quot;a-section a-spacing-large&quot;]/div[@class=&quot;a-box a-alert a-alert-warning a-spacing-base&quot;]/div[@class=&quot;a-box-inner a-alert-container&quot;]/i[@class=&quot;a-icon a-icon-alert&quot;]</value>
+      <webElementGuid>7aef6fa4-ccad-4633-924c-eeae638788e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div/div/div/i</value>
+      <webElementGuid>b0491625-05c5-47a8-9f00-51d54e1eedf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/i</value>
+      <webElementGuid>54deea26-90e8-44b7-bfd7-156f07a86459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

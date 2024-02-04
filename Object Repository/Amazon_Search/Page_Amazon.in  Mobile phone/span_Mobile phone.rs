@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mobile phone</name>
+   <tag></tag>
+   <elementGuidId>aa8c8511-fc9f-4ef2-b88e-6c8e1068509d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-color-state.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>35ea3638-c4ce-479a-860a-f5480a41e76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-state a-text-bold</value>
+      <webElementGuid>abeb1013-9407-4fbd-9f3c-5b8b57501fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;Mobile phone&quot;</value>
+      <webElementGuid>5315fcc8-325b-4045-a826-db135895c530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/span[@class=&quot;rush-component&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=UPPER template=RESULT_INFO_BAR widgetId=result-info-bar&quot;]/h1[@class=&quot;a-size-base s-desktop-toolbar a-text-normal&quot;]/div[@class=&quot;s-desktop-width-max sg-row-align-items-center s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-14-of-20 sg-col-18-of-24 sg-col s-breadcrumb sg-col-10-of-16 sg-col-6-of-12&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/span[@class=&quot;a-color-state a-text-bold&quot;]</value>
+      <webElementGuid>f3dbd257-53e0-4cac-a44b-5f254ae5c627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      <webElementGuid>666042b1-aaef-47d7-b4fa-3852dfa035c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[3]</value>
+      <webElementGuid>0a4df0e3-45bf-4346-a6a6-4229c1f8b0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&quot;Mobile phone&quot;' or . = '&quot;Mobile phone&quot;')]</value>
+      <webElementGuid>33732d61-3199-4ca4-b165-95a60b62d8f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

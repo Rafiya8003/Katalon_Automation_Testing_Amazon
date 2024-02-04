@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_Login_testListener</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f927a1d4-09b7-42f2-a0ce-69f080987569</testSuiteGuid>
+   <testCaseLink>
+      <guid>1acfae48-47ec-45ef-bfdf-e17d67420b82</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Amazon_Login/TC_Amazon_Login_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d5aa84ba-1759-470b-bbec-5ec54a2eaf46</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Amazon_LoginData/Amazon_Login_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d5aa84ba-1759-470b-bbec-5ec54a2eaf46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>cd38f3f4-ed25-481a-b7d6-a9b3b447162d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d5aa84ba-1759-470b-bbec-5ec54a2eaf46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>86da5672-2d8d-484b-a6b6-63bdb7e5152b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sofa</name>
+   <tag></tag>
+   <elementGuidId>3e447722-839c-4fe7-ac0d-6b2189c8a222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-color-state.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a146cff7-cc02-4095-82f3-d0335bfb8eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-state a-text-bold</value>
+      <webElementGuid>1dd286b9-84f2-4c8d-8793-40d6052291fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;Sofa&quot;</value>
+      <webElementGuid>d5c5d2f6-6a4f-4054-b4da-9346f5712077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/span[@class=&quot;rush-component&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=UPPER template=RESULT_INFO_BAR widgetId=result-info-bar&quot;]/h1[@class=&quot;a-size-base s-desktop-toolbar a-text-normal&quot;]/div[@class=&quot;s-desktop-width-max sg-row-align-items-center s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-14-of-20 sg-col-18-of-24 sg-col s-breadcrumb sg-col-10-of-16 sg-col-6-of-12&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/span[@class=&quot;a-color-state a-text-bold&quot;]</value>
+      <webElementGuid>87333dbf-9f8d-4374-a6ab-44b1ff35abf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      <webElementGuid>5b135aa0-bb70-476e-b93b-e74c9f2da55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[3]</value>
+      <webElementGuid>b369147a-7e6d-4ce8-abeb-206b28a9dc03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&quot;Sofa&quot;' or . = '&quot;Sofa&quot;')]</value>
+      <webElementGuid>e25873b9-2d5b-42ba-83d5-e0d6d5ca5700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

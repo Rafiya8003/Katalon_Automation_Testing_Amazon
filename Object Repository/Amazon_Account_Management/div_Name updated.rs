@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Name updated</name>
+   <tag></tag>
+   <elementGuidId>ccca752d-1adc-4f40-bc5a-c8b1aeafad1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SUCCESS_MESSAGES']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SUCCESS_MESSAGES > div.a-box-inner.a-alert-container > div.a-alert-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebef1d72-86eb-469f-b82c-69b615cb55d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-content</value>
+      <webElementGuid>8405f05d-1c6a-4f50-8463-824645412e1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name updated. </value>
+      <webElementGuid>1445c488-7d04-4d97-b810-8f6c5f7a5867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SUCCESS_MESSAGES&quot;)/div[@class=&quot;a-box-inner a-alert-container&quot;]/div[@class=&quot;a-alert-content&quot;]</value>
+      <webElementGuid>d9493305-5d18-44a5-8df5-1dfbd23c93b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SUCCESS_MESSAGES']/div/div</value>
+      <webElementGuid>e477e02a-1ccd-4f39-8ee3-14c7a1c5200a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>97c1a2ae-b0e1-409f-ac95-12e7f85fecbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name updated. ' or . = 'Name updated. ')]</value>
+      <webElementGuid>1824a1e6-28b1-4478-9bd2-f737b4e2ebd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

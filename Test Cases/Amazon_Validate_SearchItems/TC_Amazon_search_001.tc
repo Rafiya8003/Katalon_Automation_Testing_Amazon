@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_search_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a908c99b-5d8e-4453-83b0-8521b0e82f82</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f251c20-e6ed-4ac4-8ae1-c7123c832400</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Da Vinci'</defaultValue>
+      <description></description>
+      <id>5f251c20-e6ed-4ac4-8ae1-c7123c832400</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Da Vinci</name>
+   <tag></tag>
+   <elementGuidId>96c29c71-aa7b-4765-a40f-2995a520f01b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-color-state.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cbbb8d69-f077-486d-beb5-abbbc091be04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-state a-text-bold</value>
+      <webElementGuid>70023869-2b05-41eb-bb73-305598352f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;Da Vinci&quot;</value>
+      <webElementGuid>9706354c-4e00-4885-a2d2-7a5715b5953d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/span[@class=&quot;rush-component&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=UPPER template=RESULT_INFO_BAR widgetId=result-info-bar&quot;]/h1[@class=&quot;a-size-base s-desktop-toolbar a-text-normal&quot;]/div[@class=&quot;s-desktop-width-max sg-row-align-items-center s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-14-of-20 sg-col-18-of-24 sg-col s-breadcrumb sg-col-10-of-16 sg-col-6-of-12&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/span[@class=&quot;a-color-state a-text-bold&quot;]</value>
+      <webElementGuid>7d6809b3-cf68-4b63-a269-121ced6ae88d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      <webElementGuid>de204b13-b3b1-42a9-9100-0389c9547d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[3]</value>
+      <webElementGuid>838c8eea-ebc9-4c8e-a239-4292db9b254b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&quot;Da Vinci&quot;' or . = '&quot;Da Vinci&quot;')]</value>
+      <webElementGuid>c2c22c91-b729-4ac4-9dc7-594702b1b21b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

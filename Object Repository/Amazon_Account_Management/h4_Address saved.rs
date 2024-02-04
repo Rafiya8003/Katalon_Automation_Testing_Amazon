@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Address saved</name>
+   <tag></tag>
+   <elementGuidId>c35ba126-298e-40f6-af57-5eac056bc567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yaab-alert-box']/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.a-alert-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c077348a-f8fe-4fb8-8263-438f4652fcb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-heading</value>
+      <webElementGuid>f81e9476-e845-4f51-8655-553befee7c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address saved</value>
+      <webElementGuid>de0b4842-c5bd-4527-be5b-2a866e59d808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yaab-alert-box&quot;)/div[@class=&quot;a-box-inner a-alert-container&quot;]/h4[@class=&quot;a-alert-heading&quot;]</value>
+      <webElementGuid>d54d35d7-6d5e-42b3-a78e-02f79080b1b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yaab-alert-box']/div/h4</value>
+      <webElementGuid>3db0606f-3ccd-42a8-912b-7dad3225e6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>12373fc1-d089-4942-b468-f3eae2b3fe27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Address saved' or . = 'Address saved')]</value>
+      <webElementGuid>bddc3452-3243-4e21-aadf-e61c1fbda0f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

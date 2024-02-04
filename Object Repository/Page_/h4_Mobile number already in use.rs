@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Mobile number already in use</name>
+   <tag></tag>
+   <elementGuidId>bb77d4be-94bf-42c2-bd0e-a2bae374731c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='authportal-main-section']/div[2]/div/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-box.a-alert.a-alert-warning.a-spacing-base > div.a-box-inner.a-alert-container > h4.a-alert-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4c3de286-eb70-4b7a-bbb4-954c488f6cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-heading</value>
+      <webElementGuid>b9ef8ac5-c075-4423-8522-3027b9713e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile number already in use</value>
+      <webElementGuid>ae037943-b43d-4af8-be86-8f3de0c6b063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;authportal-main-section&quot;)/div[@class=&quot;a-section auth-pagelet-container&quot;]/div[@class=&quot;a-section a-spacing-double-large&quot;]/div[@class=&quot;a-section a-spacing-large&quot;]/div[@class=&quot;a-box a-alert a-alert-warning a-spacing-base&quot;]/div[@class=&quot;a-box-inner a-alert-container&quot;]/h4[@class=&quot;a-alert-heading&quot;]</value>
+      <webElementGuid>54c3ce81-bd41-48a6-b221-35de4a51509b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div/div/div/h4</value>
+      <webElementGuid>651db8c3-568c-4da5-afe1-e0e25e95db8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/h4</value>
+      <webElementGuid>f9ed5da4-9891-4523-b030-fd544ade7a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Mobile number already in use' or . = 'Mobile number already in use')]</value>
+      <webElementGuid>8c02e5fc-5207-4704-9cf2-0656af1c2b2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
