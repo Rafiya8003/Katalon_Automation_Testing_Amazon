@@ -17,5 +17,17 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon_AddTo_Cart/TC_Amazon_Add_To_Cart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5d193874-94ae-46c0-a585-a8b684619ffb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>30f1329f-2ab7-436f-90a0-01d91c9cb4ad</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -18,14 +18,14 @@
       <variableId>86da5672-2d8d-484b-a6b6-63bdb7e5152b</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'mail4pics04@gmail.com\r\n'</defaultValue>
       <description></description>
       <id>cd38f3f4-ed25-481a-b7d6-a9b3b447162d</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Sultana@1817'</defaultValue>
       <description></description>
       <id>86da5672-2d8d-484b-a6b6-63bdb7e5152b</id>
       <masked>false</masked>

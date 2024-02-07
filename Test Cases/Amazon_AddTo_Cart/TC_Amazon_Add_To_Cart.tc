@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>4fca03a9-af11-469e-be1b-8be44f5b8aa2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d193874-94ae-46c0-a585-a8b684619ffb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30f1329f-2ab7-436f-90a0-01d91c9cb4ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mail4pics04@gmail.com'</defaultValue>
+      <description></description>
+      <id>5d193874-94ae-46c0-a585-a8b684619ffb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sultana@1817'</defaultValue>
+      <description></description>
+      <id>30f1329f-2ab7-436f-90a0-01d91c9cb4ad</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>

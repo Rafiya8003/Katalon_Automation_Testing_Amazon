@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.in/')
 
+CustomKeywords.'com.test.demo.AmazonPage.loginToAmazon'(username, password)
+
 WebUI.setText(findTestObject('Object Repository/Amazon_Add_To_Cart/input_field-keywords'), 'Da Vinci')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Add_To_Cart/inputnav-search-submit-button'))

@@ -17,22 +17,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+// Open Browser and navigate to Amazon
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.in/')
 
+// Click on Sign In
 WebUI.click(findTestObject('Object Repository/Amazon_Login_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_email'), username)
+// Set email
+if (GlobalVariable.username != null) {
+    WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_email'), GlobalVariable.username)
+} else {
+    WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_email'), username)
+}
 
+// Click Continue
 WebUI.click(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/inputcontinue'))
 
-WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_password'), password)
+// Set password
+if (GlobalVariable.password != null) {
+    WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_password'), GlobalVariable.password)
+} else {
+    WebUI.setText(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/input_password'), password)
+}
 
+// Click Sign In
 WebUI.click(findTestObject('Object Repository/Amazon_Login_001/Page_Amazon Sign In/inputsignInSubmit'))
 
+// Verify Sign Out button
 WebUI.verifyElementPresent(findTestObject('Object Repository/Amazon_Login_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign Out'), 
     0)
 
+WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Amazon_Login/Amazon_Login'), false)
+
+// Close Browser
 WebUI.closeBrowser()
 
